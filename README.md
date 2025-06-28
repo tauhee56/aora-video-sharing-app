@@ -1,48 +1,46 @@
 ﻿<div align="center">
-  <img src="https://github.com/user-attachments/assets/aora-banner.png" alt="Aora Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=300&section=header&text=Aora&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Professional%20Video%20Sharing%20Platform&descAlignY=51&descAlign=62" width="100%" />
 </div>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" alt="🎬" width="35" height="35" />
-  Aora - Professional Video Sharing Platform
+  🎬 Aora - Professional Video Sharing Platform
 </h1>
 
 <div align="center">
 
-  [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
-  [![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
-  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-  [![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)](https://appwrite.io/)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
-  [![Stars](https://img.shields.io/github/stars/tauhee56/aora-video-sharing-app?style=for-the-badge)](https://github.com/tauhee56/aora-video-sharing-app/stargazers)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/tauhee56/aora-video-sharing-app?style=for-the-badge)
 
 </div>
 
 <div align="center">
-  <h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="25" height="25" />
-    A cutting-edge video sharing platform built with React Native
-  </h3>
-  <p><em>Discover, share, and explore AI-generated videos in a beautifully designed mobile experience</em></p>
+
+### 🚀 A cutting-edge video sharing platform built with React Native
+
+*Discover, share, and explore AI-generated videos in a beautifully designed mobile experience*
+
 </div>
 
 <div align="center">
 
-  [📱 Features](#-features) •
-  [🛠️ Tech Stack](#️-tech-stack) •
-  [🚀 Quick Start](#-quick-start) •
-  [📖 Documentation](#-documentation) •
-  [🤝 Contributing](#-contributing)
+**[📱 Features](#-features) • [🛠️ Tech Stack](#️-tech-stack) • [🚀 Quick Start](#-quick-start) • [🤝 Contributing](#-contributing)**
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/app-showcase.gif" alt="App Showcase" width="300" />
-  <p><em>Experience the future of video sharing</em></p>
+
+![App Demo](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+*Experience the future of video sharing*
+
 </div>
 
 ---
@@ -82,71 +80,35 @@ const aora = {
 
 ### ✨ Why Choose Aora?
 
-<div align="center">
-
-| 🎨 **Modern Design** | 🔐 **Secure & Reliable** | 📱 **Cross-Platform** | ⚡ **High Performance** |
-|:---:|:---:|:---:|:---:|
-| Professional UI with glass-morphism effects | End-to-end encryption & secure authentication | Native iOS & Android experience | Optimized for 60fps smooth animations |
-| **🎬 AI Integration** | **🔍 Smart Search** | **📊 Analytics** | **🌟 Community** |
-| Specialized for AI-generated content | Real-time search with instant results | Detailed user insights & statistics | Active community of creators |
-
-</div>
+| Feature | Description |
+|---------|-------------|
+| 🎨 **Modern Design** | Professional UI with glass-morphism effects |
+| 🔐 **Secure & Reliable** | End-to-end encryption & secure authentication |
+| 📱 **Cross-Platform** | Native iOS & Android experience |
+| ⚡ **High Performance** | Optimized for 60fps smooth animations |
+| 🎬 **AI Integration** | Specialized for AI-generated content |
+| 🔍 **Smart Search** | Real-time search with instant results |
+| 📊 **Analytics** | Detailed user insights & statistics |
+| 🌟 **Community** | Active community of creators |
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ### Frontend Technologies
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://reactnative.dev/img/header_logo.svg" width="60" height="60" alt="React Native"/>
-<br><strong>React Native</strong>
-<br><em>Cross-platform mobile framework</em>
-</td>
-<td align="center" width="25%">
-<img src="https://github.com/expo/expo/raw/main/.github/resources/banner.png" width="60" height="60" alt="Expo"/>
-<br><strong>Expo</strong>
-<br><em>Development platform & tools</em>
-</td>
-<td align="center" width="25%">
-<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" width="60" height="60" alt="Tailwind"/>
-<br><strong>NativeWind</strong>
-<br><em>Tailwind CSS for React Native</em>
-</td>
-<td align="center" width="25%">
-<img src="https://github.com/oblador/react-native-animatable/raw/master/logo.png" width="60" height="60" alt="Animatable"/>
-<br><strong>Animatable</strong>
-<br><em>Smooth animations</em>
-</td>
-</tr>
-</table>
+- **React Native** - Cross-platform mobile framework
+- **Expo** - Development platform & tools
+- **NativeWind** - Tailwind CSS for React Native
+- **React Native Animatable** - Smooth animations
 
 ### Backend & Services
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://appwrite.io/images/logos/appwrite.svg" width="60" height="60" alt="Appwrite"/>
-<br><strong>Appwrite</strong>
-<br><em>Backend-as-a-Service</em>
-</td>
-<td align="center" width="33%">
-<img src="https://appwrite.io/images/logos/appwrite.svg" width="60" height="60" alt="Database"/>
-<br><strong>Database</strong>
-<br><em>Document-based storage</em>
-</td>
-<td align="center" width="33%">
-<img src="https://appwrite.io/images/logos/appwrite.svg" width="60" height="60" alt="Storage"/>
-<br><strong>Storage</strong>
-<br><em>File management system</em>
-</td>
-</tr>
-</table>
+- **Appwrite** - Backend-as-a-Service
+- **Appwrite Database** - Document-based storage
+- **Appwrite Storage** - File management system
+- **Appwrite Auth** - User authentication
 
 ### Development Tools
-```bash
+```
 📦 Package Manager    → npm/yarn
 🔧 Development       → Expo CLI
 📱 Testing          → Expo Go
@@ -155,46 +117,27 @@ const aora = {
 📊 Version Control  → Git + GitHub
 ```
 
-</div>
-
 ---
 
 ## 🌟 Features
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
 ### 🎯 Core Functionality
 
-<table>
-<tr>
-<td width="50%">
-
-#### 📱 **User Experience**
+#### 📱 User Experience
 - **🎨 Onboarding Journey**: Interactive welcome screens with smooth animations
 - **🔐 Secure Authentication**: Email-based login with robust security
 - **🏠 Dynamic Home Feed**: AI-curated video content with trending algorithms
 - **🔍 Smart Search**: Real-time search with autocomplete and filters
 - **📊 User Profiles**: Comprehensive profiles with analytics and insights
 
-</td>
-<td width="50%">
-
-#### 🎬 **Content Management**
+#### 🎬 Content Management
 - **📤 Easy Upload**: Drag-and-drop video and thumbnail upload
 - **�️ Video Player**: Native controls with quality selection
 - **💾 Cloud Storage**: Secure file storage with CDN delivery
 - **📈 Analytics**: Detailed view counts and engagement metrics
 - **🏷️ Tagging System**: AI-powered content categorization
 
-</td>
-</tr>
-</table>
-
 ### 🎨 Design Excellence
-
-<div align="center">
 
 | Feature | Description | Technology |
 |---------|-------------|------------|
@@ -204,18 +147,7 @@ const aora = {
 | 🎯 **Navigation** | Intuitive tab-based navigation with haptic feedback | React Navigation |
 | 🎨 **Gradients** | Beautiful gradient overlays and visual effects | Custom styling |
 
-</div>
-
 ### ⚡ Performance & Optimization
-
-```mermaid
-graph LR
-    A[App Launch] --> B[Fast Loading]
-    B --> C[Smooth Animations]
-    C --> D[Efficient Caching]
-    D --> E[Offline Support]
-    E --> F[60fps Performance]
-```
 
 - **🚀 Lightning Fast**: Optimized app startup under 2 seconds
 - **🔄 Smart Refresh**: Pull-to-refresh with intelligent data fetching
@@ -227,45 +159,23 @@ graph LR
 
 ## 🚀 Quick Start
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-</div>
-
 ### 📋 Prerequisites
 
-<table>
-<tr>
-<td width="50%">
+#### 🛠️ Required Tools
+- Node.js (v16+)
+- npm or yarn
+- Git
+- Expo CLI
+- Code Editor (VS Code recommended)
 
-#### 🛠️ **Required Tools**
-```bash
-✅ Node.js (v16+)
-✅ npm or yarn
-✅ Git
-✅ Expo CLI
-✅ Code Editor (VS Code recommended)
-```
-
-</td>
-<td width="50%">
-
-#### 📱 **For Device Testing**
-```bash
-📱 iOS: Xcode (macOS only)
-🤖 Android: Android Studio
-📲 Physical Device: Expo Go app
-```
-
-</td>
-</tr>
-</table>
+#### 📱 For Device Testing
+- iOS: Xcode (macOS only)
+- Android: Android Studio
+- Physical Device: Expo Go app
 
 ### ⚡ Installation
 
-<details>
-<summary><b>🔽 Step-by-step Installation Guide</b></summary>
-
-#### 1️⃣ **Clone the Repository**
+#### 1️⃣ Clone the Repository
 ```bash
 # Clone the project
 git clone https://github.com/tauhee56/aora-video-sharing-app.git
@@ -274,7 +184,7 @@ git clone https://github.com/tauhee56/aora-video-sharing-app.git
 cd aora-video-sharing-app
 ```
 
-#### 2️⃣ **Install Dependencies**
+#### 2️⃣ Install Dependencies
 ```bash
 # Using npm
 npm install
@@ -286,7 +196,7 @@ yarn install
 npm install -g @expo/cli
 ```
 
-#### 3️⃣ **Environment Setup**
+#### 3️⃣ Environment Setup
 Create a `.env` file in the root directory:
 
 ```env
@@ -300,7 +210,7 @@ EXPO_PUBLIC_APPWRITE_VIDEO_COLLECTION_ID=your_video_collection_id
 EXPO_PUBLIC_APPWRITE_STORAGE_ID=your_storage_id
 ```
 
-#### 4️⃣ **Start Development Server**
+#### 4️⃣ Start Development Server
 ```bash
 # Start the Expo development server
 npm start
@@ -309,7 +219,7 @@ npm start
 yarn start
 ```
 
-#### 5️⃣ **Run on Device**
+#### 5️⃣ Run on Device
 ```bash
 # iOS Simulator (macOS only)
 npm run ios
@@ -320,8 +230,6 @@ npm run android
 # Web Browser
 npm run web
 ```
-
-</details>
 
 ### 🎯 Quick Commands
 
@@ -440,46 +348,19 @@ graph TB
 
 ### 🌈 Color Palette
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-<div style="width: 60px; height: 60px; background: #0F0F23; border-radius: 50%; margin: 0 auto;"></div>
-<strong>Primary</strong><br>
-<code>#0F0F23</code><br>
-<em>Deep Navy Blue</em>
-</td>
-<td align="center">
-<div style="width: 60px; height: 60px; background: #6366F1; border-radius: 50%; margin: 0 auto;"></div>
-<strong>Secondary</strong><br>
-<code>#6366F1</code><br>
-<em>Modern Indigo</em>
-</td>
-<td align="center">
-<div style="width: 60px; height: 60px; background: #10B981; border-radius: 50%; margin: 0 auto;"></div>
-<strong>Accent</strong><br>
-<code>#10B981</code><br>
-<em>Emerald Green</em>
-</td>
-<td align="center">
-<div style="width: 60px; height: 60px; background: #F59E0B; border-radius: 50%; margin: 0 auto;"></div>
-<strong>Warning</strong><br>
-<code>#F59E0B</code><br>
-<em>Amber</em>
-</td>
-</tr>
-</table>
-
-</div>
+| Color | Hex Code | Usage |
+|-------|----------|-------|
+| 🔵 **Primary** | `#0F0F23` | Deep Navy Blue - Main backgrounds |
+| 🟣 **Secondary** | `#6366F1` | Modern Indigo - Buttons & accents |
+| 🟢 **Accent** | `#10B981` | Emerald Green - Success states |
+| 🟡 **Warning** | `#F59E0B` | Amber - Warning states |
+| 🔴 **Danger** | `#EF4444` | Red - Error states |
+| ⚫ **Dark** | `#111827` | Dark Gray - Text & borders |
+| ⚪ **Light** | `#F8FAFC` | Light Gray - Backgrounds |
 
 ### 🔤 Typography System
 
-<table>
-<tr>
-<td width="50%">
-
-#### **Font Family: Poppins**
+#### Font Family: Poppins
 ```css
 /* Font Weights Available */
 font-family: 'Poppins', sans-serif;
@@ -495,10 +376,7 @@ pextrabold: 800   /* Extra Bold */
 pblack: 900       /* Black */
 ```
 
-</td>
-<td width="50%">
-
-#### **Typography Scale**
+#### Typography Scale
 ```css
 /* Heading Hierarchy */
 h1: 2.5rem (40px) - pbold
@@ -513,13 +391,7 @@ Small: 0.875rem (14px) - plight
 XSmall: 0.75rem (12px) - plight
 ```
 
-</td>
-</tr>
-</table>
-
 ### 🎭 Design Principles
-
-<div align="center">
 
 | Principle | Description | Implementation |
 |-----------|-------------|----------------|
@@ -528,8 +400,6 @@ XSmall: 0.75rem (12px) - plight
 | **🎯 Minimalism** | Clean, focused interface design | Generous whitespace and clear visual hierarchy |
 | **📱 Mobile-First** | Optimized for mobile experience | Touch-friendly interactions and responsive layouts |
 | **⚡ Performance** | 60fps smooth animations | Hardware-accelerated transitions |
-
-</div>
 
 ---
 
@@ -601,19 +471,62 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support
+## 📞 Support & Community
 
-If you have any questions or need help:
+| Support Type | Contact |
+|--------------|---------|
+| 📧 **Email Support** | [tauheedjunior@gmail.com](mailto:tauheedjunior@gmail.com) |
+| 🐛 **Issues** | [Report Bug](https://github.com/tauhee56/aora-video-sharing-app/issues) |
+| 📖 **Documentation** | Contact for full documentation |
 
-- 📧 **Email**: tauheedjunior@gmail.com
-- 📖 **Documentation**: [For Full Documentation Contact us]
+---
+
+## 📊 Project Stats
+
+<div align="center">
+
+![GitHub repo size](https://img.shields.io/github/repo-size/tauhee56/aora-video-sharing-app?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/tauhee56/aora-video-sharing-app?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/tauhee56/aora-video-sharing-app?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/tauhee56/aora-video-sharing-app?style=for-the-badge)
+
+</div>
+
+---
+
+## 🌟 Show Your Support
+
+<div align="center">
+
+**If this project helped you, please consider giving it a ⭐!**
+
+[![GitHub stars](https://img.shields.io/github/stars/tauhee56/aora-video-sharing-app?style=social)](https://github.com/tauhee56/aora-video-sharing-app/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/tauhee56/aora-video-sharing-app?style=social)](https://github.com/tauhee56/aora-video-sharing-app/network/members)
+
+</div>
 
 ---
 
 <div align="center">
-  <p>Made with ❤️ by Tauheed</p>
-  <p>⭐ Star this repo if you found it helpful!</p>
+
+  **Made with ❤️ by [Tauheed](https://github.com/tauhee56)**
+
+  <p>
+    <em>Thank you for checking out Aora!</em>
+  </p>
+
+  <p>
+    <strong>⭐ Star this repo if you found it helpful!</strong>
+  </p>
+
+  <p>
+    <a href="#-aora---professional-video-sharing-platform">🔝 Back to Top</a>
+  </p>
+
 </div>
-#   a o r a - v i d e o - s h a r i n g - a p p 
- 
- 
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontAlignY=65&animation=twinkling" width="100%">
+</div>
